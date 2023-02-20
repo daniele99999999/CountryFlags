@@ -1,0 +1,29 @@
+{
+  "schemaName" : "GraphQLCountryFlags",
+  "input" : {
+    "operationSearchPaths" : [
+      "**/*.graphql"
+    ],
+    "schemaSearchPaths" : [
+      "**/*.graphqls"
+    ]
+  },
+  "output" : {
+    "testMocks" : {
+      "swiftPackage" : {
+          "targetName": null
+      }
+    },
+    "schemaTypes" : {
+      "path" : "./GraphQLCountryFlags",
+      "moduleType" : {
+        "swiftPackageManager" : {
+        }
+      }
+    },
+    "operations" : {
+      "inSchemaModule" : {
+      }
+    }
+  }
+}
