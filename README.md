@@ -38,4 +38,4 @@ Daniele
 
 ## License
 
-SurveyQuestions it's available under MIT License. See LICENSE file for more information
+CountryFlags it's available under MIT License. See LICENSE file for more information
